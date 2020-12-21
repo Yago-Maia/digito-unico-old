@@ -1,0 +1,9 @@
+.mvn
+.settings
+target
+.classpath
+.project
+digitoUnico.db
+/bin/
+DigitoUnico.mv.db
+DigitoUnico.trace.db
